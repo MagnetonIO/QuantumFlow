@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/license-MIT-blue)  
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)  
+![Category Theory](https://img.shields.io/badge/functorial-physics-orange)  
+
 # QuantumFlow  
 **QuantumFlow** is a Python library designed for simulating **derived Hamiltonians** across multiple domains, including:  
 - **Quantum Field Theory (QFT)** in curved spacetime.  
